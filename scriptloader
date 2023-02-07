@@ -1,5 +1,5 @@
 repeat wait() until game:IsLoaded()
 local PlaceId = game.PlaceId
 if PlaceId == 11606818992 then
-    loadstring(game:HttpGet("https://pastebin.com/raw/AVDSKXyp"))()
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/ScripterXue/Steep-Steps/main/lua")()
 end
